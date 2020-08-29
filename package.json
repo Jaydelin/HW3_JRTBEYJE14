@@ -1,0 +1,23 @@
+{
+  "name": "react-assignment",
+  "version": "1.0.0",
+  "description": "gtl-assignment",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaydelin/GTL-assignment3.git"
+  },
+  "author": "Ruben",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaydelin/GTL-assignment3/issues"
+  },
+  "homepage": "https://github.com/jaydelin/GTL-assignment3#readme"
+}
